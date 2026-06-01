@@ -1,9 +1,31 @@
 {
   "users": [
     {
-      "id": "c2b8bc8d-c756-4f48-b29c-36f8147846c3",
+      "id": "249c1af1-4289-47b2-b79c-423859044a1d",
+      "email": "khan2dk084@gmail.com",
+      "passwordHash": "$2b$10$jnv4bKCJ8m/T0xz6mnkiiOjrirzJQa3eqgF0QKr0vzkOMSVmEFAqe",
+      "info": {
+        "hairColor": "",
+        "favoriteFood": "",
+        "bio": ""
+      },
+      "isVerified": false
+    },
+    {
+      "id": "1af7a022-17b5-4cca-96dd-57c4cb07d9f8",
       "email": "khandk084@gmail.com",
-      "passwordHash": "$2b$10$6BBDlT.fVkuSM.6OwCNQZ.oINE2.YZLKPWdtITxm7TJDSa9PvcuVW",
+      "passwordHash": "$2b$10$6zj.JQpa0MvUoa.d5aXfMupunJzdkrhqO22TpBICmjN5aO0Cd9DXW",
+      "info": {
+        "hairColor": "",
+        "favoriteFood": "",
+        "bio": ""
+      },
+      "isVerified": false
+    },
+    {
+      "id": "9077de24-6382-4fb9-81d0-20920a0d01ef",
+      "email": "khandk1084@gmail.com",
+      "passwordHash": "$2b$10$Ni1MbDdDjIjx37yPCsTjYeYexW/czQtkjymngm4FhIJmbec8gd4HG",
       "info": {
         "hairColor": "",
         "favoriteFood": "",
